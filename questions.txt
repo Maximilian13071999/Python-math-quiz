@@ -1,0 +1,17 @@
+[{
+"question": "Как зовут меня?",
+"difficulty": "1",
+"answer": "Максим"
+}, {
+"question": "2+2?",
+"difficulty": "1",
+"answer": "4"
+}, {
+"question": "15+13?",
+"difficulty": "3",
+"answer": "28"
+}, {
+"question": "2+13?",
+"difficulty": "2",
+"answer": "15"
+}]
